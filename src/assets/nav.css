@@ -1,0 +1,60 @@
+.nav-can{
+     padding: 2% 10%;
+}
+
+.nc1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5% 0%;
+}
+.nl img{
+    width: 15%;
+}
+.call{
+    padding: 12px 23px;
+    background-color: rgb(70, 70, 70);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 23px;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    gap: 10px;
+    font-weight: 400;
+    transition: .2s ease-in;
+}
+.dot{
+    width: 8px;
+    height: 8px;
+    background-color: rgb(0, 157, 255);
+    border-radius: 50%;
+    animation: .8s bouncing ease infinite alternate-reverse;
+}
+.call:hover{
+    background-color: rgb(0, 85, 255);
+    filter: drop-shadow(0px 0px 5px rgb(0, 85, 255));
+}
+.call:hover .dot{
+    background-color: rgb(0, 255, 72);
+}
+
+@keyframes bouncing{
+    to{
+        transform: scale(1.5);
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .nc1{
+        padding: 2% 1%;
+    }
+    .nl img{
+        width: 50%;
+    }
+    .call{
+        font-size: 1em;
+        white-space: nowrap;
+    }
+}
