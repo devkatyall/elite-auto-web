@@ -44,11 +44,11 @@
     {
       titleAdd: "Add On Services",
       infoAdd: [
-        "Headlight Restoration $20 (Each Light)",
-        "Buffing $50-$200 (Depending on quantity)",
-        "Polishing $50-$100",
-        "Waxing $50",
-        "Mold Removal $150+ (Depends on quantity)"
+        "Headlight Restoration: $20 (Each Light)",
+        "Buffing: $50-$200 (Depending on quantity)",
+        "Polishing: $50-$100",
+        "Waxing: $50",
+        "Mold Removal: $150+ (Depends on quantity)"
       ]
     },
     {
