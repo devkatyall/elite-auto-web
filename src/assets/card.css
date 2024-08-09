@@ -145,6 +145,7 @@
 }
 
 .action {
+  text-decoration: none;
   border: none;
   outline: none;
   display: inline-block;
@@ -186,4 +187,16 @@
     font-size: 3.3em;
     transform: translateY(-80%) rotate(20deg) translateX(50%);
   }
+}
+
+
+.footer{
+  padding: 3dvh 2dvw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer img{
+  width: 10%;
 }

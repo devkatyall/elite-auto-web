@@ -7,6 +7,7 @@ import Slider from './components/Slider'
 import WebContext from './ContextProvider'
 import reviews from './data/changeabledata'
 import services from './data/services'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
           <WebContext.Provider value={services}>
             <Card />
           </WebContext.Provider>
+          <Footer />
       </main>
   )
 }

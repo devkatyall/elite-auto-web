@@ -8,7 +8,7 @@ export default function Card(){
 	const services = useContext(WebContext)
 
     return(
-		<div className='container'> 
+		<div id='pricing' className='container'> 
 			<div className='price-title'>
 				<h1>Our Pricing</h1>
 				<p>We make sure that you get the best in the market, Not just the service but also the price! Our car detailing prices are competitive and total WORTH IT!</p>
@@ -33,7 +33,7 @@ export default function Card(){
 							)
 							)}
 					</ul>
-					<button type="button" class="action">Get Started</button>
+					<a type='button' href='tel:647-561-6777' class="action"  >Get Started</a>
 				</div>  : null
 			))}
 			{services.map((e) => (
@@ -55,7 +55,7 @@ export default function Card(){
 							)
 							)}
 					</ul>
-					<button type="button" class="action">Get Started</button>
+					<a type='button' href='tel:647-561-6777' class="action"  >Get Started</a>
 				</div>  : null
 			))}
 

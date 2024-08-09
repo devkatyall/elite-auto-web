@@ -6,6 +6,7 @@
   color: rgb(111, 111, 111);
   --focus-color: rgb(0, 66, 189);
   font-family: "Rubik", sans-serif;
+  scroll-behavior: smooth;
 }
 
 *{

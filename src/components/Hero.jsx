@@ -13,7 +13,7 @@ export default function Hero(){
                 </div>
                 <div className='hs-cta'>
                     <a href='tel:647-561-6777'>Give us a Call<i class="fa-solid fa-phone"></i></a>
-                    <a href=''>View Pricing</a>
+                    <a href='#pricing'>View Pricing</a>
                 </div>
             </div>
         </div>
