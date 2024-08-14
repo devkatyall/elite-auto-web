@@ -9,7 +9,7 @@ export default function Hero(){
             <div className='hs-1'>
                 <h1>Greater Toronto Area’s Mobile Detailing Experts</h1>
                 <div className='hs-line'>
-                    <p>Professional Car Detailers servicing the Durham Region and surrounding areas. Half a decade of car detailing expertise right at your door, at Elite Auto Aesthetics we go above the standard to ensure your vehicle is left in pristine condition but most importantly we value our clients’ experience with us. 
+                    <p>Professional Car Detailers servicing in the Durham Region and surrounding areas. Half a decade of car detailing expertise right at your door. 
 </p>
                 </div>
                 <div className='hs-cta'>
