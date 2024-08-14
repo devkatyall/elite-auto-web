@@ -10,7 +10,7 @@ export default function Card(){
     return(
 		<div id='pricing' className='container'> 
 			<div className='price-title'>
-				<h1>Our Pricing</h1>
+				<h1>Our Services</h1>
 				<p>We make sure that you get the best in the market, Not just the service but also the price! Our car detailing prices are competitive and total WORTH IT!</p>
 			</div>
 		<div className="services-grid">

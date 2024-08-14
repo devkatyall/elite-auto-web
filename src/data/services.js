@@ -16,7 +16,7 @@
       ]
     },
     {
-      title: "Full Interior",
+      title: "Full Interior Detail",
       priceReg: 80,
       priceBig: 100,
       info: [

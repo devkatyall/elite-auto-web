@@ -7,7 +7,7 @@ export default function Hero(){
                 <img src={Vector} />
             </div>
             <div className='hs-1'>
-                <h1>Oshawa's Mobile Detailing Experts</h1>
+                <h1>Greater Toronto Area’s Mobile Detailing Experts</h1>
                 <div className='hs-line'>
                     <p>Experience the difference of a professional car detail without leaving your driveway, transforming your car with meticulous cleaning and a 100% satisfaction guarantee.</p>
                 </div>
