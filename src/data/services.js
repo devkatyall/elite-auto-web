@@ -24,21 +24,59 @@
         "Exterior Sealant",
         "FULL INTERIOR DETAIL PACKAGE"
       ]
-    },
-      {
-      title: "Ceramic Coating",
-      priceReg: "$$",
-      priceBig: "$$",
+    },    {
+      title: "Paint Correction",
+      priceReg: "200",
+      priceBig: "300",
       info: [
         "Exterior Wash",
         "Iron Removal",
-        "Clay Bar",
-        "Paint Decontamination",
-        "2 Year of Coverage",
-        "Paint Correction"
+        "Clay Bar"
       ],
       button: "Call for Enquiry"
     },
+    {
+    title: "Showroom Detail",
+    priceReg: "250",
+    priceBig: "350",
+    info: [
+      "Interior & Exterior Detail",
+      "Engine Bay Detail",
+      "Paint Decontamination",
+      "Iron Removal",
+      "Ceramic Sealant"
+    ],
+    button: "Call for Enquiry"
+  },
+  {
+  title: "Premium Showroom Detail",
+  priceReg: "400",
+  priceBig: "500",
+  info: [
+    "Interior & Exterior Detail",
+      "Engine Bay Detail",
+      "Paint Decontamination",
+      "Iron Removal",
+      "2+ year Ceramic Sealant",
+      "Polishing"
+  ],
+  button: "Call for Enquiry"
+}
+    ,
+    {
+    title: "Ceramic Coating",
+    priceReg: "$$",
+    priceBig: "$$",
+    info: [
+      "Exterior Wash",
+      "Iron Removal",
+      "Clay Bar",
+      "Paint Decontamination",
+      "2 Year of Coverage",
+      "Paint Correction"
+    ],
+    button: "Call for Enquiry"
+  },
     {
       titleAdd: "Add On Services",
       infoAdd: [
