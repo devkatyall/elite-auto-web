@@ -34,7 +34,8 @@
         "Iron Removal",
         "Clay Bar",
         "Paint Decontamination",
-        "2 Year of Coverage"
+        "2 Year of Coverage",
+        "Paint Correction"
       ],
       button: "Call for Enquiry"
     },
@@ -43,7 +44,6 @@
       infoAdd: [
         "Headlight Restoration: $20 (Each Light)",
         "Mold Removal: $150+ (Depends on quantity)",
-        "Ceramic Coating: $400+"
       ]
     }
   ];
