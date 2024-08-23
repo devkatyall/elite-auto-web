@@ -25,6 +25,19 @@
         "FULL INTERIOR DETAIL PACKAGE"
       ]
     },
+      {
+      title: "Ceramic Coating",
+      priceReg: "$$",
+      priceBig: "$$",
+      info: [
+        "Exterior Wash",
+        "Iron Removal",
+        "Clay Bar",
+        "Paint Decontamination",
+        "2 Year of Coverage"
+      ],
+      button: "Call for Enquiry"
+    },
     {
       titleAdd: "Add On Services",
       infoAdd: [

@@ -33,7 +33,7 @@ export default function Card(){
 							)
 							)}
 					</ul>
-					<a type='button' href='tel:647-561-6777' class="action"  >Get Started</a>
+					<a type='button' href='tel:647-561-6777' class="action"  >{e.button ? e.button : "Call Now"}</a>
 				</div>  : null
 			))}
 			{services.map((e) => (
@@ -55,7 +55,7 @@ export default function Card(){
 							)
 							)}
 					</ul>
-					<a type='button' href='tel:647-561-6777' class="action"  >Get Started</a>
+					<a type='button' href='tel:647-561-6777' class="action"  >{e.button ? e.button : "Call Now"}</a>
 				</div>  : null
 			))}
 
