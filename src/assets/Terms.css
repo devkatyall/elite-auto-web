@@ -1,0 +1,21 @@
+.main{
+    padding: 5% 10% 5% 10%;;
+}
+h1{
+    font-size: 5rem;
+    color: rgb(0, 85, 255);
+}
+
+h3{
+    padding: 1.5% 0;
+    font-size: 2rem;
+}
+
+p{
+    padding: .5% 5%;
+}
+
+.strong{
+    color: rgb(3, 49, 139);
+    font-size: 1.5rem;
+}
